@@ -131,9 +131,9 @@ Ejemplo:
 
 | Versión | Fecha | Modificación | Responsable |
 |---|---|---|---|
-| V0.1 | semana 1 | Modelo conceptual del chasis | Zuriel Espinosa |
-| V0.2 | semana 2  | Diseño inicial del soporte LiDAR | Zuriel Espinosa |
-| V0.3 |semana 4| Ajuste de posición de la cámara | Zuriel Espinosa |
+| P/D |PD| Modelo conceptual del chasis | Zuriel Espinosa |
+| P/D |PD| Diseño inicial del soporte LiDAR | Zuriel Espinosa |
+| P/D |PD| Ajuste de posición de la cámara | Zuriel Espinosa |
 
 ## Estado del proyecto
 
